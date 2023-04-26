@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.490">
+  <properties />
+  
+  
+            <testcase name="User_02_Login" time="2.249" classname="com.nopcommerce.user.Level_20_Fake_Data" />
+                <testcase name="User_01_Register" time="4.241" classname="com.nopcommerce.user.Level_20_Fake_Data" />
+      
+</testsuite>

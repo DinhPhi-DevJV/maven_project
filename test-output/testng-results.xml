@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-02T09:16:43Z" name="Nopcommerce - User" finished-at="2023-03-02T09:16:59Z" duration-ms="15734">
+    <groups>
+    </groups>
+    <test started-at="2023-03-02T09:16:43Z" name="Run on Chrome" finished-at="2023-03-02T09:16:59Z" duration-ms="15734">
+      <class name="com.nopcommerce.user.Level_20_Fake_Data">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_20_Fake_Data@563f38c4]" started-at="2023-03-02T09:16:43Z" name="initBeforeSuite" finished-at="2023-03-02T09:16:43Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_20_Fake_Data@563f38c4]" started-at="2023-03-02T09:16:43Z" name="beforeClass" finished-at="2023-03-02T09:16:51Z" duration-ms="7762" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register()[pri:0, instance:com.nopcommerce.user.Level_20_Fake_Data@563f38c4]" started-at="2023-03-02T09:16:51Z" name="User_01_Register" finished-at="2023-03-02T09:16:55Z" duration-ms="4241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method signature="User_02_Login()[pri:0, instance:com.nopcommerce.user.Level_20_Fake_Data@563f38c4]" started-at="2023-03-02T09:16:55Z" name="User_02_Login" finished-at="2023-03-02T09:16:57Z" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_20_Fake_Data@563f38c4]" started-at="2023-03-02T09:16:57Z" name="afterClass" finished-at="2023-03-02T09:16:59Z" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_20_Fake_Data -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- Nopcommerce - User -->
+</testng-results>
